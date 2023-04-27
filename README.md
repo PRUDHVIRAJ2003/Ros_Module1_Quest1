@@ -1,4 +1,4 @@
-# ETH Zürich ROS Solution
+# ROS Solution by Prudhvi Raj
 This is an unofficial solution for [eth zurich ros](https://rsl.ethz.ch/education-students/lectures/ros.html) 2021 course for MLDA Robotics. The solution has been well tested for both ROS Melodic and Noetic.
 
 The main solution package created for this is the `smb_highlevel_controller` which was created with the following command:
